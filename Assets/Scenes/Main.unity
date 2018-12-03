@@ -3732,11 +3732,11 @@ MonoBehaviour:
   - {r: 1, g: 0.8235294, b: 0, a: 1}
   - {r: 1, g: 0.07058824, b: 0, a: 1}
   slogans:
-  - I Want YOU for solving overpopulation.
-  - Come kill your enemies!
-  - Are you angry at the world? We have a solution!
-  - Do you make fiscally unsound decisions? Contact us for a quote.
-  - Do you purchase nature-damaging products? Come get your reward!
+  - I want YOU for solving overpopulation.
+  - Do you have enemies? We have a solution!
+  - You can win a billion dollars if you survive the machines of death!
+  - Do you think you are immortal? Come test it today!
+  - Come help a local business in need.
   adPanel: {fileID: 1559332045}
   arrow: {fileID: 289631355}
   theTutorial: {fileID: 1091689150}
@@ -13014,11 +13014,13 @@ MonoBehaviour:
   - Click up here to buy a machine.
   - Perfect. You can see it working now.
   - We still have a backlog of customers though, we should buy another machine.
-  - Oh wow! You can already see the pollution at work. It's marvellous isn't it?
+  - Oh wow! You can already see the pollution we're creating. It's marvellous isn't
+    it?
   - The dark polluted skies, our machines expanding and destroying nearby trees and
     of course the death of hundreds, these are the signs you are making money!
   - Every person you kill is a noble sacrifice, dying for our bank account!
-  - The challenge in making money is killing as many people as possible.
+  - If you want a better view, you can move around using WASD, E+Q to rotate and X+Z
+    to move up and down.
   - I'm going to leave you to it, but there's still more you can find out for yourself.
   - You can buy better more efficient machines, have slogans for your ads and get
     info on your own progress.
