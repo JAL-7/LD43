@@ -3728,9 +3728,9 @@ MonoBehaviour:
   sloganFeedbackParent: {fileID: 1365187733}
   sloganFeedback: {fileID: 339365380}
   sloganResultColors:
-  - {r: 0, g: 1, b: 0.078431375, a: 1}
-  - {r: 1, g: 0.8235294, b: 0, a: 1}
-  - {r: 1, g: 0.07058824, b: 0, a: 1}
+  - {r: 0, g: 1, b: 0.08235294, a: 1}
+  - {r: 1, g: 0.8, b: 0, a: 1}
+  - {r: 1, g: 0.08235294, b: 0, a: 1}
   slogans:
   - I want YOU for solving overpopulation.
   - Do you have enemies? We have a solution!
